@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Para ver la estructura completa de archivos del repositorio, consulta [STRUCTURE.md](../STRUCTURE.md).
+
 ## Project setup
 
 ```bash
